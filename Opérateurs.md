@@ -24,7 +24,7 @@ int cadence = 4;
 ```
 
 ### Arithmétiques
-Les opérations arithmétique de bases ont les opérateurs typiques
+Les opérations arithmétiques de bases ont les opérateurs typiques
 
 * `+` Addition
 * `-` Soustraction
@@ -33,23 +33,23 @@ Les opérations arithmétique de bases ont les opérateurs typiques
 * `%` Modulo
 
 #### Le modulo d'un nombre
-L'opérateur modulo determine le restant entier d'une division. Enlève la partie entière en restant positif.
+L'opérateur modulo détermine le restant entier d'une division. Enlève la partie entière en restant positif.
 
 ```java
 14 % 5 // Enlève 5 deux fois et reste 4.
 20 % 2 // Enlève 2 dix fois et reste 0.
 ```
 ### Unaires
-Les opérateurs unaires travaillent sur un seule valeurs. Le plus reconnu est le négatif `-`.
+Les opérateurs unaires travaillent sur une seule valeur. Le plus reconnu est le négatif `-`.
 
-* `+` Plus unaire. Indique qu'une valeur est positive. C'est opérateur est implicite sur les valeurs.
-* `-` Moins unaire. Inidque qu'une valeur est négative.
+* `+` Plus unaire. Indique qu'une valeur est positive. Cet opérateur est implicite sur les valeurs.
+* `-` Moins unaire. Indique qu'une valeur est négative.
 * `!` Complément logique. Inverse la valeur booléenne.
 * `++` Incrémentation. Incrémente la valeur de 1.
-* `--` Décrémentation. Décremente la valeur de 1.
+* `--` Décrémentation. Décrémente la valeur de 1.
 
 ### Égalités et relationnelles
-Les opérations relationnelles retourne une valeur booléenne par rapport à l'opération demandé.
+Les opérations relationnelles retournent une valeur booléenne par rapport à l'opération demandée.
 
 * `==` Égale à
 * `!=` Différent de
@@ -60,7 +60,7 @@ Les opérations relationnelles retourne une valeur booléenne par rapport à l'o
 
 ### Conditionnelles
 
-Les opérateurs conditionnelles prennent des valeurs booléenne et retourne des valeurs booléennes.
+Les opérateurs conditionnels prennent des valeurs booléennes et retournent des valeurs booléennes.
 
 * `&&` Et logique
 * `||` Ou logique

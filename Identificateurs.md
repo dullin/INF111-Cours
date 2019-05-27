@@ -5,21 +5,21 @@ draft = false
 weight = 30
 +++
 
-Un identificateur est un nom donné par le programmeur à un éléments du programmes. 
+Un identificateur est un nom donné par le programmeur à un élément du programme. 
 
 * variables
 * méthodes
 * classes
 
 ### Règles
-Les règles de création des identificateur :
-* Doit débuté par une lettre ou un tiret-bas `_`;
-* Les restes de caractères doivent être des lettre, de chiffres ou des tiret-bas.
-* Ne doit pas être un mot réservé par le langage.
+Les règles de création des identificateurs :
+* Dois débuter par une lettre ou un tiret-bas `_`;
+* Les restes de caractères doivent être des lettres, de chiffres ou des tirets bas.
+* Ne dois pas être un mot réservé par le langage.
 
-Faire attention au conventions suivantes:
-* Faire attentions à la casse. Il y a disctinction entre les lettres majuscules et minuscules;
-* Les noms des varialbles sont en `camelCase` ou les lettre sont mises en majuscules pour indiquer un nouveau mot.
+Faire attention aux conventions suivantes:
+* Faire attention à la casse. Il y a distinction entre les lettres majuscules et minuscules;
+* Les noms des variables sont en `camelCase` ou les lettres sont mises en majuscules pour indiquer un nouveau mot.
 
 ### Référence
 

@@ -31,6 +31,6 @@ for(int i = 0; i < 10; i++){
 ~~~
 
 * L'initialisation va être une instruction faite avant le début de la boucle.
-* La terminaison est la condition testé pour continué la boucle à chaque itération.
-* L'incrément est une instruction exécuté à chaque itération de la boucle.
+* La terminaison est la condition testée pour continuer la boucle à chaque itération.
+* L'incrément est une instruction exécutée à chaque itération de la boucle.
 * Un compteur est configuré avec ces instructions.

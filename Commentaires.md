@@ -7,13 +7,13 @@ weight = 20
 
 Deux types: 
 
-* Ligne simple débutant par `//`
-* Plusieurs lignes délimité par `/*` et `*/`
+* Ligne simple débutante par `//`
+* Plusieurs lignes délimitées par `/*` et `*/`
 
 
 ```java
 /*
-Une commentaire
+Un commentaire
 sur plusieurs lignes.
 */
 public class HelloWorld{

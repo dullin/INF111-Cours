@@ -38,7 +38,7 @@ double y = 4.5;
 ```
 
 ### Déclaration de constantes
-Le mot clé `final` permet de déclarer une constante qui ne pourra pas être modifier.
+Le mot clé `final` permet de déclarer une constante qui ne pourra pas être modifiée.
 Par convention, le nom de constantes est en majuscules.
 
 ```java
