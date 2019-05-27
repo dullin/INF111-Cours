@@ -17,6 +17,7 @@ weight = 10
 ### Environnement de développement
 * Éditeur de texte avec le compilateur et l'interpréteur.
 * IntelliJ IDEA. IDE intégré.
+* Éditeur en ligne, repl.it
 
 ### Hello, world!
 
@@ -28,7 +29,9 @@ public class HelloWorld{
 }
 ```
 
+{{< replit "dullin/Introduction" >}}
+
 ### Références
 
-Big Java, Chapitre 1
-Beginning Java, Chapire 1 p.1-9
+* Big Java, Chapitre 1
+* Beginning Java, Chapire 1 p.1-9

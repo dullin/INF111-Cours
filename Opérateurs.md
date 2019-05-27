@@ -14,6 +14,7 @@ weight = 60
 * Conditionnelles
 * Comparaisons de type
 * Binaires
+* Terniaires
 
 ### Assignations
 Utilisé à l'assignation de valeur à des variables.
@@ -57,7 +58,6 @@ Les opérations relationnelles retourne une valeur booléenne par rapport à l'o
 * `>=` Plus grand ou égale
 * `<=` Plus petit ou égale
 
-
 ### Conditionnelles
 
 Les opérateurs conditionnelles prennent des valeurs booléenne et retourne des valeurs booléennes.
@@ -73,6 +73,19 @@ Les opérateurs conditionnelles prennent des valeurs booléenne et retourne des 
 | 1   | 0   | false    | true     |
 | 1   | 1   | true     | true     |
 
+### Comparaisons de type `instanceof`
+L'opérateur `instanceof` permet de vérifier le type d'un objet.
+
+### Binaires
+Les opérateurs binaires vont travailler sur la représentations binaires de nombres
+
+* `&` Et binaire
+* `|` Ou binaire
+* `^` Ou exclusif binaire
+* `>>` Bitshift vers la droite avec signe
+* `<<` Bitshift vers la gauche
+* `>>>` Bitshift vers la droite sans extension de signe
+
 #### Opérateur terniaire
 
 L'opérateur terniaire permet d'avoir un conditionnelle simple avec un retour direct.
@@ -83,4 +96,8 @@ result = someCondition ? value1 : value2;
 
 ### Références
 
-https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html
+* Big Java
+  * 4.2 Arithmetic, p.137
+  * 5.2 Relational Operators, p.184
+  * Appendix B - Java Operator Summary
+* https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html
