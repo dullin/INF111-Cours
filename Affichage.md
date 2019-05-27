@@ -26,3 +26,18 @@ int x = 5;
 String nom = "Bob";
 System.out.println("Le nom est : " + nom + ". Et x vaut : " + x + ".");
 ```
+
+### Formatage de l'affichage avec `printf`
+
+Pour avoir plus de contrôle sur les paramètres d'affichage, `printf` nous donne accès à des options additionnelles pour l'affichage.
+`printf` utilise des opérateurs de formatage dans un chaine de caractères pour ensuite remplir les opérateurs utilisé.
+
+```java
+double x = 4.54242234;
+// Limite le nombre de décimal à afficher
+System.out.printf("Le nombre : %.2f", x);
+```
+
+### Références
+
+https://docs.oracle.com/javase/tutorial/java/data/numberformat.html
