@@ -1,11 +1,16 @@
-# Expression
++++
+title = "Expressions"
+menuTitle = "Expressions"
+draft = false
+weight = 50
++++
 
 * Une expression est un élément qui va ultimement représenter une valeur.
 * L'expression peut directement être une valeur.
 * Si l'expression à des opérations, elle sera évalué pour "devenir" une valeur finale.
 * Plusieurs endroit demande des expressions. À chaque fois, l'expression va être évalué.
 
-# Expression dans une assignation
+### Expression dans une assignation
 * La partie de droite d'une assignation est une expression et peut donc être une série d'opération.
 
 ```java
@@ -18,7 +23,7 @@ int y;
 y = 7 + 3;
 ```
 
-# Expression avec des variables
+### Expression avec des variables
 * L'utilisation de variables dans les expressions permet d'utiliser le contenu d'une variable dans l'expression.
 * Le contenu de la variable va être remplacé dans l'expression avant que l'expression soit évalué.
 
@@ -37,10 +42,10 @@ y = x + 3;
 x = 10;
 ```
 
-# Appel de méthodes dans les expressions
+### Appel de méthodes dans les expressions
 * Des méthodes peuvent être appellées à l'intérieur d'une expression. Le résultat de la méthodes sera utiilsé à la place de l'appel dans l'expression.
 
-# Références
+### Références
 
 * Big Java, 4.2, p.137-144
 * Beggining Java, p.34-49

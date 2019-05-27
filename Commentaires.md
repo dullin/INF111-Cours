@@ -1,6 +1,12 @@
-# Commentaires
++++
+title = "Les commentaires"
+menuTitle = "Commentaire"
+draft = false
+weight = 20
++++
 
 Deux types: 
+
 * Ligne simple débutant par `//`
 * Plusieurs lignes délimité par `/*` et `*/`
 
@@ -18,6 +24,6 @@ public class HelloWorld{
 }
 ```
 
-# Références
+### Références
 * Big Java, 2.2.4 p.38
 * Beginning Java, p.66

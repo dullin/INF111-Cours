@@ -1,0 +1,86 @@
++++
+title = "Opérateurs"
+menuTitle = "Opérateurs"
+draft = false
+weight = 60
++++
+
+### Listes des types d'opérateurs
+
+* Assignations
+* Arithmétiques
+* Unaires
+* Égalités et relationnelles
+* Conditionnelles
+* Comparaisons de type
+* Binaires
+
+### Assignations
+Utilisé à l'assignation de valeur à des variables.
+
+```java
+int cadence = 4;
+```
+
+### Arithmétiques
+Les opérations arithmétique de bases ont les opérateurs typiques
+
+* `+` Addition
+* `-` Soustraction
+* `*` Multiplication
+* `\` Division
+* `%` Modulo
+
+#### Le modulo d'un nombre
+L'opérateur modulo determine le restant entier d'une division. Enlève la partie entière en restant positif.
+
+```java
+14 % 5 // Enlève 5 deux fois et reste 4.
+20 % 2 // Enlève 2 dix fois et reste 0.
+```
+### Unaires
+Les opérateurs unaires travaillent sur un seule valeurs. Le plus reconnu est le négatif `-`.
+
+* `+` Plus unaire. Indique qu'une valeur est positive. C'est opérateur est implicite sur les valeurs.
+* `-` Moins unaire. Inidque qu'une valeur est négative.
+* `!` Complément logique. Inverse la valeur booléenne.
+* `++` Incrémentation. Incrémente la valeur de 1.
+* `--` Décrémentation. Décremente la valeur de 1.
+
+### Égalités et relationnelles
+Les opérations relationnelles retourne une valeur booléenne par rapport à l'opération demandé.
+
+* `==` Égale à
+* `!=` Différent de
+* `>` Plus grand
+* `<` Plus petit
+* `>=` Plus grand ou égale
+* `<=` Plus petit ou égale
+
+
+### Conditionnelles
+
+Les opérateurs conditionnelles prennent des valeurs booléenne et retourne des valeurs booléennes.
+
+* `&&` Et logique
+* `||` Ou logique
+* `? :` Opérateur terniaire `if-then-else`
+
+| A | B | A && B | A \|\| B |
+| ---- | ---- | -------- | -------- |
+| 0   | 0   | false    | false    |
+| 0   | 1   | false    | true     |
+| 1   | 0   | false    | true     |
+| 1   | 1   | true     | true     |
+
+#### Opérateur terniaire
+
+L'opérateur terniaire permet d'avoir un conditionnelle simple avec un retour direct.
+
+```java
+result = someCondition ? value1 : value2;
+```
+
+### Références
+
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html

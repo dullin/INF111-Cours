@@ -1,10 +1,17 @@
-# Variables
++++
+title = "Variables, types et assignation"
+menuTitle = "Variables"
+draft = false
+weight = 40
++++
+
+### Principe d'une variable
 * Une variable permet de sauvegarder une information pour utilisation future;
 * Une variable est la combinaison d’un espace mémoire réservé (type), un identificateur et une valeur;
 * Les variables peuvent contenir toutes sortes d'informations;
 * Étudions premièrement les types primitifs représentant directement des valeurs.
 
-# Types
+### Types
 
 * Entier (Note pour ceux venant du C: pas de `unsigned`)
     * `byte`
@@ -17,7 +24,7 @@
 * Caractère
     * `char`
 
-# Déclaration de variables
+### Déclaration de variables
 La déclaration se fait avec la syntaxe suivante:
 ```java
 type nomVariable;
@@ -30,9 +37,17 @@ int x;
 double y = 4.5;
 ```
 
-# Référence
+### Déclaration de constantes
+Le mot clé `final` permet de déclarer une constante qui ne pourra pas être modifier.
+Par convention, le nom de constantes est en majuscules.
 
-* Big Java, 2.2 p.34-41
+```java
+final MA_CONSTANTE = 20;
+```
+
+### Référence
+
+* Big Java, 2.2 p.34-41, p.132-136
 * Beginning Java, p.27-34
 
 * https://docs.oracle.com/javase/specs/jls/se12/html/jls-4.html

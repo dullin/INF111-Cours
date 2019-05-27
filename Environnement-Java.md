@@ -1,18 +1,24 @@
++++
+title = "Introduction au langage Java"
+menuTitle = "Introduction"
+draft = false
+weight = 10
++++
 
-# Le language Java
+### Le language Java
 * JRE
 * JDK
 
-# Machine virtuelle
+### Machine virtuelle
 * Fichiers sources .java
 * Fichiers compilés .class
 * Exécution par la machine virtuelle
 
-# Environnement de développement
+### Environnement de développement
 * Éditeur de texte avec le compilateur et l'interpréteur.
 * IntelliJ IDEA. IDE intégré.
 
-# Hello, world!
+### Hello, world!
 
 ```java
 public class HelloWorld{
@@ -22,7 +28,7 @@ public class HelloWorld{
 }
 ```
 
-# Références
+### Références
 
 Big Java, Chapitre 1
 Beginning Java, Chapire 1 p.1-9
