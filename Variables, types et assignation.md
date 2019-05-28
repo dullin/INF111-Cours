@@ -42,7 +42,7 @@ Le mot clé `final` permet de déclarer une constante qui ne pourra pas être mo
 Par convention, le nom de constantes est en majuscules.
 
 ```java
-final MA_CONSTANTE = 20;
+final int MA_CONSTANTE = 20;
 ```
 
 ### Référence
