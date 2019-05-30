@@ -29,7 +29,7 @@ Les opérations arithmétiques de bases ont les opérateurs typiques
 * `+` Addition
 * `-` Soustraction
 * `*` Multiplication
-* `\` Division
+* `/` Division
 * `%` Modulo
 
 #### Le modulo d'un nombre
