@@ -16,22 +16,25 @@ weight = 999
 
 * Type primitifs
 * Variables
-* Typecast
 * Opérateur
 * Structure
     * Sélection
     * Itération
 * Saisie
 * Affichage
+
+* Normes de programmation
+
+* Typecast
 * Programme
     * main
     * empty methods
 
-* Normes de programmation
-
 * Méthodes
   * Paramètres
   * Retours 
+
+* Debugging
 
 # Principes de programmation orientés objets
 * Objets
