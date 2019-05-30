@@ -14,15 +14,19 @@ weight = 40
 ### Types
 
 * Entier (Note pour ceux venant du C: pas de `unsigned`)
-    * `byte`
-    * `short`
-    * `int`
-    * `long`
+  * `byte`
+  * `short`
+  * `int`
+  * `long`
 * Flottant
-    * `float`
-    * `double`
+  * `float`
+  * `double`
 * Caractère
-    * `char`
+  * `char`
+* Logique
+  * `boolean`
+    * `true`
+    * `false`
 
 ### Déclaration de variables
 La déclaration se fait avec la syntaxe suivante:

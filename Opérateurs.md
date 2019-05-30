@@ -68,10 +68,10 @@ Les opérateurs conditionnels prennent des valeurs booléennes et retournent des
 
 | A | B | A && B | A \|\| B |
 | ---- | ---- | -------- | -------- |
-| 0   | 0   | false    | false    |
-| 0   | 1   | false    | true     |
-| 1   | 0   | false    | true     |
-| 1   | 1   | true     | true     |
+| false   | false   | false    | false    |
+| false   | true   | false    | true     |
+| true   | false   | false    | true     |
+| true   | true   | true     | true     |
 
 ### Comparaisons de type `instanceof`
 L'opérateur `instanceof` permet de vérifier le type d'un objet.
