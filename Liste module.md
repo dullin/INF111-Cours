@@ -30,6 +30,8 @@ weight = 999
     * main
     * empty methods
 
+Strings
+
 * Méthodes
   * Paramètres
   * Retours 
