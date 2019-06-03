@@ -20,7 +20,7 @@ double[] nombresDirect = {45.4, -56.43, 34.6};
 
 // L'initialisation peut utiliser une taille variable
 int taille = sc.nextInt();
-double nombresReel = new double[taille];
+double[] nombresReel = new double[taille];
 ```
 
 ### Accès aux éléments du tableau
@@ -30,7 +30,7 @@ Faire attention, **la première case du tableau est la case 0**.
 ```java
 // Parcourir les cases d'un tableau
 for (int i = 0; i < nombres.length; i++){
-    System.out.println(tab[i]);
+    System.out.println(nombres[i]);
 }
 ```
 

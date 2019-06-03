@@ -8,6 +8,7 @@ weight = 2035
 Les objets instanciés ne sont pas directement sauvegardés à l'intérieur d'une variable comme on pourrait le penser à première vue. La variable contient une **référence** à l'objet en mémoire.
 
 Certaines implications arrivent avec cette méthode :
+
 * Il est possible d'avoir plusieurs variables qui utilisent la même référence
 * La modification d'un objet affecte toutes les variables avec cette référence
 * Un objet existe en dehors de la variable créée dans nos programmes.

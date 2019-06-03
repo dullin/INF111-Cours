@@ -10,6 +10,7 @@ En programmation orientée-objet, les informations d'un programme sont structur�
 Un objet est la représentation d'un élément ou d'une structure de la problématique du problème.
 
 Les objets ont toujours deux informations primordiales:
+
 * Données, nommées attributs ou champs/fields en Java
 * Comportement, nommé méthodes/methods en Java
 
@@ -20,7 +21,7 @@ Pour regrouper les objets de même type ensemble (ceux avec les mêmes types de 
 Un programme peut appeler des méthodes sur les objets du programme pour que ceux-ci performent des actions.
 
 ```java
-String cours = "INF111"  // Création d'un objet type String
+String cours = "INF111";  // Création d'un objet type String
 int taille = cours.length(); // Appel de la méthode lenght qui retourne la taille
 String petitCours = cours.toLowerCase(); // Appel de la méthode toLowerCase qui construit un nouvel objet de type String avec des minuscules.
 
