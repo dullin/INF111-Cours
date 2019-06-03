@@ -95,6 +95,8 @@ public class Rectangle {
 }
 ```
 
+{{< replit "dullin/Classe-Rectangle" >}}
+
 ### Références
 * Big Java Chap 3, 3.1-3.3
 * Beginning Java, Chap 5, Defining Classes, Defining Methods, Constructors
