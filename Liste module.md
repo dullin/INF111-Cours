@@ -106,3 +106,15 @@ https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist
 # To add
 * Generics
 * Unit tests
+
+# Semaine 3
+
+## Retour sur la conception d'objets
+
+* `this`
+* Paramètres, retours et contexte
+* Surcharge de méthodes
+* packages
+* public, private, protected and noneà
+* IDEs
+* Unit Testing

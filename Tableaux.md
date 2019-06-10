@@ -45,6 +45,7 @@ for (double el: nombres) {
 ```
 
 Les limitations sont les suivantes :
+
 * L'itérateur n'est pas disponible dans la boucle.
 * L'ordre des opérations n'est pas précisé. La première itération de la boucle ne va pas nécessairement regarder le premier élément.
 * Il est interdit de modifier les éléments du tableau.

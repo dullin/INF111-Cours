@@ -31,18 +31,19 @@ weight = 999
 pow prends de double double
 
 ## Retour OO
-* Méthode
+* Méthodes
+  * this
   * paramètres 
   * retours
   * variable locales
 * Package
-* this
 * public, private
 * javadoc
 
-## Tris/fouille
-
-## Unit Tests
-
 ## IDE
 * Debugging
+## Unit Tests
+
+# Cours 4
+
+## Tris/fouille
