@@ -106,6 +106,8 @@ https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist
 # To add
 * Generics
 * Unit tests
+* Regex
+* Diagramme UML de classes
 
 # Semaine 3
 
@@ -118,3 +120,19 @@ https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist
 * public, private, protected and noneà
 * IDEs
 * Unit Testing
+
+# Semaine 4
+
+* null - référence, tableaux d'objets
+* Tris
+  * selection
+  * merge
+* Fouille
+  * Linéaire
+  * Binaire
+* Regex
+
+
+
+* Inner class
+* wrapper classes for primitive types
