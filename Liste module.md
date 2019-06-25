@@ -132,7 +132,9 @@ https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist
   * Binaire
 * Regex
 
-
+# Semaine 5
+* Collections
+* Generics
 
 * Inner class
 * wrapper classes for primitive types
