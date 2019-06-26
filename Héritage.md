@@ -21,3 +21,9 @@ public class MaClasseSpeciale extends MaClasse {
 ```
 
 Il faut faire attention, les variables d'instances privées de la classe générale ne sont pas accessibles par la classe spécialisée.
+
+### Exemple d'une question et d'un choix de réponse
+
+* [Question](/INF111/sources/Question.java)
+* [ChoiceQuestion](/INF111/sources/ChoiceQuestion.java)
+* [Demo](/INF111/sources/QuestionDemo3.java)

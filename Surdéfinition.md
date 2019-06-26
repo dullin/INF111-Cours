@@ -22,3 +22,4 @@ public class MaClasseSpeciale extends MaClasse {
         super.maMethod();
     }
 }
+```
