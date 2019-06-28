@@ -18,4 +18,4 @@ int x = 2;
 int pow_x = (int) Math.pow(x, 4)
 ```
 
-Dans l'exemple précédent, les paramètres utilisés pour la méthode `pow` sont des `int` mais Java le laisse passer, car une conversion automatique se fait de `int` à `double` sans perte de précision. Pour le retour par contre, il est possible que la valeur `double` soit tronqué et java ne laisse pas passé se genre d'ambigüité. Il faut donc forcer la conversion du retour de `pow` en `int` pour l'assigner dans une variable de type `int`.
+Dans l'exemple précédent, les paramètres utilisés pour la méthode `pow` sont des `int` mais Java le laisse passer, car une conversion automatique se fait de `int` à `double` sans perte de précision. Pour le retour par contre, il est possible que la valeur `double` soit tronquée et java ne laisse pas passer ce genre d'ambigüité. Il faut donc forcer la conversion du retour de `pow` en `int` pour l'assigner dans une variable de type `int`.

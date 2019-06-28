@@ -13,7 +13,7 @@ weight = 110
 * L’espacement est les espaces vides horizontaux ou verticaux laissés dans nos programmes ;
 * L’espacement horizontal est nommé l’indentation. Chaque bloc de code aura un niveau d’indentation. Les blocs de code sont délimités avec un bloc de code (entre des `{` et `}` ;
 * Les espacements verticaux sont des sauts de lignes vides laissés pour délimiter les contextes entre les instructions ;
-* Les deux types d’espacements sont mutuellement exclusifs. Il ne faut pas avoir un changement d’indentation avec un saut de ligne. Le changement d’indentation aura priorité.
+* Les deux types d’espacements sont mutuellement exclusifs. Il ne doit pas avoir un changement d’indentation avec un saut de ligne. Le changement d’indentation aura priorité.
 
 ### Commentaire
 * Les commentaires à l’intérieur du code existent pour expliquer le « pourquoi » de nos instructions. Leurs buts sont d’éclaircir pourquoi les instructions sont nécessaires pour arriver à la solution de notre programme ;
@@ -21,7 +21,7 @@ weight = 110
 
 ### En-tête
 * Au début de chaque fichier, nous aurons un en-tête qui explique le contenu général du fichier. En avançant dans la session, d’autres considérations seront ajoutées aux en-têtes ;
-* Les informations générales dans les fichiers seront une description du programme et autre information pertinente (auteurs, date).
+* Les informations générales dans les fichiers seront une description du programme et d'autres informations pertinentes (auteurs, date).
 
 ### Noms significatifs
 * Tout identificateur doit être bien identifié.

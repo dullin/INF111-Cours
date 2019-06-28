@@ -5,8 +5,8 @@ draft = false
 weight = 80
 +++
 
-La saisit utilise un objet de type `Scanner` pour faire des saisi dans la console.
-L'objet scanner est déclarer à même la classe pour facilité sont utilisation à travers les différentes méthodes.
+La saisie utilise un objet de type `Scanner` pour faire des saisies dans la console.
+L'objet scanner est déclarer à même la classe pour faciliter sont utilisation à travers les différentes méthodes.
 
 Les méthodes suivantes peuvent recevoir les informations saisies
 

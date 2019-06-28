@@ -7,7 +7,7 @@ weight = 3020
 
 On peut utiliser la référence `this` dans un objet pour faire référence à l'objet lui-même. Considéré que c'est une variable toujours disponible.
 
-On l'utilise quand il faut distinguer des ambiguïtés possibles. Par exemple, durant l'utilisation de paramètres portant le même nom que des variables d'instance.
+On l'utilise quand il faut distinguer des ambigüités possibles. Par exemple, durant l'utilisation de paramètres portant le même nom que des variables d'instance.
 
 ```java
 puclic Class Etudiant{

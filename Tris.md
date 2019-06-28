@@ -16,7 +16,7 @@ Voici d'autres types de tris:
 * [Bubble](https://en.wikipedia.org/wiki/Bubble_sort)
 * [Insertion](https://en.wikipedia.org/wiki/Insertion_sort)
 
-Il vous est requis de savoir représenté les transformations des algorithmes en images pour le cours et d'être capable d'identifier le code de chaque algorithme.
+Il vous est requis de savoir représenter les transformations des algorithmes en images pour le cours et d'être capable d'identifier le code de chaque algorithme.
 
 Dans les tableaux de types primitifs, la méthode `sort` de la classe `Arrays` nous permet d'effectuer un Dual-Pivot Quicksort.
 

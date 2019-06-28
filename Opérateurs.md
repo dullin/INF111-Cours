@@ -77,7 +77,7 @@ Les opérateurs conditionnels prennent des valeurs booléennes et retournent des
 L'opérateur `instanceof` permet de vérifier le type d'un objet.
 
 ### Binaires
-Les opérateurs binaires vont travailler sur la représentations binaires de nombres
+Les opérateurs binaires vont travailler sur les représentations binaires de nombres
 
 * `&` Et binaire
 * `|` Ou binaire
@@ -88,7 +88,7 @@ Les opérateurs binaires vont travailler sur la représentations binaires de nom
 
 #### Opérateur terniaire
 
-L'opérateur terniaire permet d'avoir un conditionnelle simple avec un retour direct.
+L'opérateur terniaire permet d'avoir une conditionnelle simple avec un retour direct.
 
 ```java
 result = someCondition ? value1 : value2;

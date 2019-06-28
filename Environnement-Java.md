@@ -34,4 +34,4 @@ public class HelloWorld{
 ### Références
 
 * Big Java, Chapitre 1
-* Beginning Java, Chapire 1 p.1-9
+* Beginning Java, Chapitre 1 p.1-9

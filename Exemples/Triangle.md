@@ -5,7 +5,7 @@ draft = false
 weight = 60
 +++
 
-Écrivez une classe Triangle avec les méthodes suivante:
+Écrivez une classe Triangle avec les méthodes suivantes:
 
 * `Triangle(double base, double hauteur)` - Constructeur
 * `Triangle()` - Constructeur, génère les valeurs de base et hauteur aléatoirement entre 1 et 10

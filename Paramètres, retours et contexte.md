@@ -13,7 +13,7 @@ weight = 3010
 
 ### Passage par valeurs
 
-* L'appel de méthodes se fait en envoyant les paramètres. Quand un paramètre est utilisé (paramètres effectifs), la valeur de celui-ci est envoyée  à la méthode.
+* L'appel de méthodes se fait en envoyant les paramètres. Quand un paramètre est utilisé (paramètres effectifs), la valeur de celui-ci est envoyée à la méthode.
 * Les valeurs reçues sont assignées en variables locales aux paramètres identifiés dans la signature de la méthode (paramètres formels).
 * Les paramètres de types primitifs seront donc modifiables durant la méthode, mais seront détruits à la fin de l'appel.
 * Les paramètres d'objets n'auront pas le même comportement, car ce sont des références

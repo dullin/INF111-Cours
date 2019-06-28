@@ -6,7 +6,7 @@ weight = 2020
 +++
 
 ### Constructeurs
-Les objets partent de classes et doivent être construits avant d'être utilisés. Pour utiliser des objets, il nous faut donc utiliser un constructeur qui pourra créer un objet qui sera ensuite saugarder dans une variable du bon type.
+Les objets partent de classes et doivent être construits avant d'être utilisés. Pour utiliser des objets, il nous faut donc utiliser un constructeur qui pourra créer un objet qui sera ensuite sauvegardé dans une variable du bon type.
 
 Le mot clé `new` permet de créer un objet à partir du constructeur de la classe. Le constructeur est une méthode qui porte le même nom que la classe et peut recevoir les données initiales de l'objet.
 

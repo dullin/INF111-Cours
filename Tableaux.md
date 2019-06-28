@@ -75,4 +75,4 @@ for (int i = 0; i < counts.length; i++) {
 
 ### Références
 Big Java, Chap 7, 7.1-7.6
-Beggining Java, Chap 4, Arrays
+Beginning Java, Chap 4, Arrays

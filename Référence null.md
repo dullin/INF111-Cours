@@ -19,7 +19,7 @@ if (monObjet == null){
 }
 ```
 
-Les références `null` arrivents dans deux cas habituels :
+Les références `null` arrivent dans deux cas habituels :
 
 * Des champs de classes non initialisés
 * Des tableaux d'objets

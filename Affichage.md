@@ -31,7 +31,7 @@ System.out.println("Le nom est : " + nom + ". Et x vaut : " + x + ".");
 
 Pour avoir plus de contrôle sur les paramètres d'affichage, `String.format` nous donne accès à des options additionnelles pour l'affichage.
 `String.format` utilise des opérateurs de formatage dans une chaine de caractères pour ensuite remplir les opérateurs utilisés.
-`String.format` génère une chaine qui sera utilisé par notre méthode `println`.
+`String.format` génère une chaine qui sera utilisée par notre méthode `println`.
 
 ```java
 double x = 4.54242234;
