@@ -132,8 +132,16 @@ https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist
   * Binaire
 * Regex
 
-# Semaine 5
+# Semaine 6 - Examen
 * Collections
+  * Framework
+    * List
+    * Queue
+    * Set
+    * Map
+
+# Semaine 7
+* Implémentation Pile File
 * Generics
 
 * Inner class
