@@ -139,10 +139,12 @@ https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist
     * Queue
     * Set
     * Map
-
+    * 
+* wrapper classes for primitive types
+  
 # Semaine 7
 * Implémentation Pile File
 * Generics
+* Final/protected
 
 * Inner class
-* wrapper classes for primitive types
