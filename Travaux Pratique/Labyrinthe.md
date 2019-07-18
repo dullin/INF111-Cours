@@ -44,6 +44,14 @@ Vous devez implémenter les algorithmes de génération de labyrinthe avec les c
 * `RecursiveMaze` - Dept-first backtracking
 * `PrimMaze` - Algorithme de Prim
 
+### Partie 2
+Vous devez implémenter les algorithme de marcheurs dans des labyrinthe avec les classes suivantes :
+
+* RecursiveWalker
+* WallFollowerWalker
+
+Vous devez aussi utilisé votre propre implémentation d'au moins une collection de votre choix avec les outils que nous avons vues en classe.
+
 ### Pondération de correction
 Consulter la [grille d'évaluation](/grilleevaluation.pdf) pour avoir plus d'informations.
 
