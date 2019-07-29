@@ -1,7 +1,7 @@
 +++
 title = "Implémentation de collections"
 menuTitle = "Implémentation de collections"
-draft = false
+draft = true
 weight = 8010
 +++
 
