@@ -92,5 +92,35 @@ L'application principale va contenir la liste des tours et le panneau supérieur
 * Taille : 600 * 400
 * Layout : BroderLayout, les tours seront dans le `CENTER` et le panneau supérieur sera dans le `PAGE_START`
 
+## Partie 2 - Interactions de l'application
+
+La deuxième partie du projet va ajouter les fonctionnalités à notre application.
+Pour vous aider, remplacer les fichiers fournis par leurs nouvelles versions qui ajoutent des fonctionnalités reliées aux interactions requises.
+
+* [Fichiers fournis](/TP3/FichiersV2.zip)
+
+### Liste des interactions requises dans l'application
+
+#### Menu
+
+* Le bouton new doit générer une nouvelle partie. Pour se faire, on doit utiliser une boite de dialogue qui demande le nombre d'anneaux pour la partie. Si une mauvaise information est entrée, l'erreur doit être bien gérée et on doit recommencer la saisit. Le nombre maximum d'anneaux est 8. Le dialogue de saisit utilise le `JOptionPane.showInputDialog` et l'affichage d'une boite de dialogue utilise `JOptionPane.showMessageDialog`.
+* Le bouton quit va terminer l'application.
+
+#### Select
+
+L'interaction principale du programme vient des boutons select de notre application. Le bouton select à deux fonctionnalités :
+
+* Si un anneau est déjà sélectionné (dans la partie du haut), cet anneau doit être déposé sur la tour sélectionnée.
+* Si aucun anneau n'est sélectionné, on doit prendre l'anneau supérieur de la tour et le mettre dans l'anneau sélectionner.
+
+Les erreurs pouvant être générées par différents scénarios doivent être gérées:
+* Si on sélectionne une tour vide et qu'aucun anneau n’est sélectionné, on indique que la tour sélectionnée est vide.
+* Si on tente de déposer un anneau sur une tour qui contient un anneau plus petit à son sommet, on indique qu'il est impossible de faire cette manoeuvre.
+
+L'affichage d'une boite de dialogue utilise `JOptionPane.showMessageDialog`.
+
+## Vidéo des interactions possibles de l'application
+[Vidéo démonstratif des fonctionnalités](https://www.screencast.com/t/mow0Gl5uJ)
+
 ### Pondération de correction
 Consulter la [grille d'évaluation](/grilleevaluation.pdf) pour avoir plus d'informations.
