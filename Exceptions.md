@@ -40,3 +40,7 @@ catch (NumberFormatException exception){
 }
 ```
 
+### Exemple du cours
+
+* [Demo](/INF111/sources/ExceptionDemo.java)
+* [Spécialisation d'une exception](/INF111/sources/TestException.java)
