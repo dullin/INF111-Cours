@@ -22,7 +22,10 @@ L'application à les caractéristique suivantes:
 * Layout : Flow
 
 Ajoutez l'intéraction suivante :
-* Quand le boutton est peser, l'application affiche une boite de dialogue. Si un des deux champs de textes est vide, on affiche un message d'erreur. Si les deux champs de textes sont remplis, on affiche le message "Bonjour, prénom nom!".
+
+* Quand le boutton est peser, l'application affiche une boite de dialogue. 
+* Si un des deux champs de textes est vide, on affiche un message d'erreur. 
+* Si les deux champs de textes sont remplis, on affiche le message "Bonjour, prénom nom!".
 
 * Note : Une liste des méthodes des différents composant sera donné à l'examen.
 
