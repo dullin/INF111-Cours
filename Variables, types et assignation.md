@@ -24,7 +24,7 @@ weight = 40
 * Caractère
   * `char`
 * Logique
-  * `boolean`
+  * `boolean`, deux valeurs possibles
     * `true`
     * `false`
 
