@@ -16,22 +16,27 @@ weight = 999
 
 * Type primitifs
 * Variables
-* Typecast
 * Opérateur
 * Structure
     * Sélection
     * Itération
 * Saisie
 * Affichage
+
+* Normes de programmation
+
+* Typecast
 * Programme
     * main
     * empty methods
 
-* Normes de programmation
+Strings
 
 * Méthodes
   * Paramètres
   * Retours 
+
+* Debugging
 
 # Principes de programmation orientés objets
 * Objets
@@ -101,3 +106,45 @@ https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist
 # To add
 * Generics
 * Unit tests
+* Regex
+* Diagramme UML de classes
+
+# Semaine 3
+
+## Retour sur la conception d'objets
+
+* `this`
+* Paramètres, retours et contexte
+* Surcharge de méthodes
+* packages
+* public, private, protected and noneà
+* IDEs
+* Unit Testing
+
+# Semaine 4
+
+* null - référence, tableaux d'objets
+* Tris
+  * selection
+  * merge
+* Fouille
+  * Linéaire
+  * Binaire
+* Regex
+
+# Semaine 6 - Examen
+* Collections
+  * Framework
+    * List
+    * Queue
+    * Set
+    * Map
+    * 
+* wrapper classes for primitive types
+  
+# Semaine 7
+* Implémentation Pile File
+* Generics
+* Final/protected
+
+* Inner class

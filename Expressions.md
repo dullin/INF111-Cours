@@ -8,7 +8,7 @@ weight = 50
 * Une expression est un élément qui va ultimement représenter une valeur.
 * L'expression peut directement être une valeur.
 * Si l'expression à des opérations, elle est évaluée pour "devenir" une valeur finale.
-* Plusieurs endroits demandent des expressions. À chaque fois, l'expression va être évaluée.
+* Plusieurs endroits demandent des expressions. Chaque fois, l'expression va être évaluée.
 
 ### Expression dans une assignation
 * La partie de droite d'une assignation est une expression et peut donc être une série d'opérations.

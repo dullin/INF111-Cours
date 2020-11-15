@@ -29,7 +29,7 @@ Les opérations arithmétiques de bases ont les opérateurs typiques
 * `+` Addition
 * `-` Soustraction
 * `*` Multiplication
-* `\` Division
+* `/` Division
 * `%` Modulo
 
 #### Le modulo d'un nombre
@@ -68,16 +68,16 @@ Les opérateurs conditionnels prennent des valeurs booléennes et retournent des
 
 | A | B | A && B | A \|\| B |
 | ---- | ---- | -------- | -------- |
-| 0   | 0   | false    | false    |
-| 0   | 1   | false    | true     |
-| 1   | 0   | false    | true     |
-| 1   | 1   | true     | true     |
+| false   | false   | false    | false    |
+| false   | true   | false    | true     |
+| true   | false   | false    | true     |
+| true   | true   | true     | true     |
 
 ### Comparaisons de type `instanceof`
 L'opérateur `instanceof` permet de vérifier le type d'un objet.
 
 ### Binaires
-Les opérateurs binaires vont travailler sur la représentations binaires de nombres
+Les opérateurs binaires vont travailler sur les représentations binaires de nombres
 
 * `&` Et binaire
 * `|` Ou binaire
@@ -88,7 +88,7 @@ Les opérateurs binaires vont travailler sur la représentations binaires de nom
 
 #### Opérateur terniaire
 
-L'opérateur terniaire permet d'avoir un conditionnelle simple avec un retour direct.
+L'opérateur terniaire permet d'avoir une conditionnelle simple avec un retour direct.
 
 ```java
 result = someCondition ? value1 : value2;
